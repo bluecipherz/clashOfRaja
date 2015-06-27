@@ -4,4 +4,10 @@
 }
 .b-fakeNav{
 	height:60px;
+
+}
+
+body{
+	background:#68c04e;
+	overflow:hidden;
 }

@@ -1,0 +1,28 @@
+
+
+#Grid{
+	position:absolute;
+	display:block;
+	float:left;
+	transform:scale(1,0.5);
+	top:100px;
+	left:200px;
+}
+#GridIn{
+	display:block;
+	float:left;
+	transform:rotate(45deg);
+}
+
+#tile{
+	display:block;
+	float:left;
+	width:60px;
+	height:60px;
+	transition:border 0.5s;
+}
+#tile:hover{
+	cursor:pointer;
+	border:1px solid rgba(255,255,255,0.4);
+	transition:border 0.1s;
+}

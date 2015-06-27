@@ -11,6 +11,7 @@
 	<link href="{{ asset('/css/BCZ-Boxes.min.css') }}" type="text/css" rel="stylesheet"/>
 	<link href="{{ asset('/css/custom.css') }}" type="text/css" rel="stylesheet"/>
 	<link href="{{ asset('/css/graphics.css') }}" type="text/css" rel="stylesheet"/>
+	<link href="{{ asset('/css/graphics/objects.css') }}" type="text/css" rel="stylesheet"/>
 	<link href="{{ asset('/css/responsive.css') }}" type="text/css" rel="stylesheet"/>
 	@yield('csslinks')
 
